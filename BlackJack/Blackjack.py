@@ -137,7 +137,7 @@ def results():
     print("")
     if stats[2] > 21:
         oc = False
-    elif stats[3] > 21 and stats[2] < 21:
+    elif stats[3] > 21 and stats[2] <= 21:
         oc = True
     elif stats[2] < stats[3]:
         oc = False
