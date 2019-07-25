@@ -244,6 +244,7 @@ while True:
             print("Sorry, you have not enough credits.")
             print("Highscore: ${}".format(max(scores)))
             name = input("What is your name? ")
+            enterHighscore()
             break
     elif option.lower() == "help":
             webbrowser.open('https://www.instructables.com/id/How-to-Play-Blackjack-with-Betting/')
