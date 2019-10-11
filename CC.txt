@@ -1,0 +1,33 @@
+CAD - Canada
+HKD - Hong Kong
+EUR - Europe
+ISK - Iceland
+PHP - Philippine
+DKK - Danish
+HUF - Hungary
+CZK - Czech
+AUD - Australia
+RON - Romanian
+SEK - Sweden
+IDR - Indonesia
+INR - India
+BRL - Brazil
+RUB - Russia
+HRK - Croatia
+JPY - Japan
+THB - Thailand
+CHF - Swiss
+SGD - Singapore
+PLN - Poland
+BGN - Bulgaria
+TRY - Turkey
+CNY - China
+NOK - Norway
+NZD - New Zealand
+ZAR - S Africa
+USD - USA
+MXN - Mexico
+ILS - Israel
+GBP - UK
+KRW - S Korea
+MYR - Malaysia
