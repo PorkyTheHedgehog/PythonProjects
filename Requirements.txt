@@ -1,0 +1,6 @@
+matplotlib
+mplcursors
+tkinter
+requests
+datetime
+dateutil
