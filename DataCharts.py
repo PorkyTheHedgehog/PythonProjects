@@ -17,7 +17,7 @@ def timeperiod(A, B, period, start="NA", end="NA"):
     plt.plot_date(ds, ccp, linestyle='-', marker='o', color='black')
     plt.xlabel("Time (Days)")
     plt.xticks(rotation=45)
-    plt.ylabel("Value ($)")
+    plt.ylabel("Value ({})".format(B))
 
     mplcursors.cursor()
     plt.show()
