@@ -1,1 +1,1 @@
-Projects done using Python during my free time
+An application which not only helps to convert currency but shows the past records of them
