@@ -1,0 +1,7 @@
+64bit Python
+openpyxl
+heapq
+win32com
+os
+re
+datetime
